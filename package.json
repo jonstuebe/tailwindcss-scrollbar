@@ -1,0 +1,16 @@
+{
+  "name": "tailwindcss-scrollbar",
+  "version": "0.1.0",
+  "description": "utility classes for webkit based scrollbars",
+  "main": "index.js",
+  "repository": "https://github.com/jonstuebe/tailwindcss-scrollbar",
+  "author": "Jon Stuebe<jstuebe@gmail.com>",
+  "license": "MIT",
+  "private": false,
+  "peerDependencies": {
+    "tailwindcss": ">= 2.x.x"
+  },
+  "devDependencies": {
+    "tailwindcss": "^2.0.2"
+  }
+}
